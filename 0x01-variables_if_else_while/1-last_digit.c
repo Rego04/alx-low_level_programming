@@ -5,8 +5,8 @@
 /* betty style doc for function main goes there */
 /**
  * main - Entry point
- * Description : 'Last digit'
- * Return : 0 (Success)
+ * 
+ * Return: 0 (Success)
  */
 
 int main(void)
